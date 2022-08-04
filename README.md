@@ -6,7 +6,7 @@ file, change the words in lines 12 and 15 that say toxicity to whatever it is yo
 
 2) Training your model -
 The 'modulartextclassification.py' file should be ran first, this trains and saves the Model inside a sub folder.
-The model is saved in the directory stated in line 97, mine is for my personal file system so you will need to change that to fit you
+The model is saved in the directory stated in line 97, mine is for my personal file system so you will need to change that to fit you.
 Once you have run this code all the way through once, you will not need it again, you can access your model from other codes.
 
 3) Testing your model -
