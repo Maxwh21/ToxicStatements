@@ -1,5 +1,4 @@
 # Toxic Tweets
-Toxic statements
 
 1) Preparing your datasets
 If you want to make your own datasheet, ensure it is in the same format as this one. When you get to the modulartextclassification.py
