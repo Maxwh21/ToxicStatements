@@ -10,4 +10,4 @@ The model is saved in the directory stated in line 97, mine is for my personal f
 Once you have run this code all the way through once, you will not need it again, you can access your model from other codes.
 
 3) Testing your model -
-The 'test.py' file can then be ran second, it is a simple use case that gets the model and uses the predict function to input a statement and return the toxicity prediction. You may need to change the directory if your model to load in line 7 to whereever you set it to save in line 97 of the previous file.
+The 'test.py' file can then be ran second, it is a simple use case that gets the model and uses the predict function to input a statement and return the toxicity prediction. You may need to change the directory of your model to load in line 7 to wherever you set it to save in line 97 of the previous file.
