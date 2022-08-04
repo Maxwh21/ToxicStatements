@@ -2,7 +2,7 @@
 
 1) Preparing your datasets -
 If you want to make your own datasheet, ensure it is in the same format as this one. When you get to the 'modulartextclassification.py'
-file, change the words in lines 12 and 15 that say toxicity to whatever it is you are measuring. If you have changed the name of the excel dataset from 'FinalBalancedData.csv', ensure you change that in the code on line 9 aswell. The excel file must be saved in the same folder as the rest of these files.
+file, change the words in lines 12 and 15 that say toxicity to whatever it is you are measuring. If you have changed the name of the excel dataset from 'FinalBalancedDataset.csv', ensure you change that in the code on line 9 aswell. The excel file must be saved in the same folder as the rest of these files.
 
 2) Training your model -
 The 'modulartextclassification.py' file should be ran first, this trains and saves the Model inside a sub folder.
